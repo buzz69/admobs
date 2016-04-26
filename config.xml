@@ -9,6 +9,7 @@
   <access origin="*" />
   <preference name="LogLevel" value="VERBOSE"/>
   <preference name="debuggable" value="true"/>
+  <preference name="android-build-tool" value="gradle" />
   
   <gap:plugin name="cordova-admob" source="npm" />
   
